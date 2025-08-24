@@ -385,7 +385,7 @@ button {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/people-office1.jpg);
+    url(../images/people-office1-min.jpg);
 }
 
 @media (min-resolution: 2x) {
@@ -394,7 +394,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/people-office1@2x.jpg);
+      url(../images/people-office1@2x-min.jpg);
   }
 }
 
@@ -910,14 +910,6 @@ button {
   border-radius: 4px;
   color: #ffffff;
   letter-spacing: 0.04em;
-}
-
-.footer-placeholder {
-  border: 1px solid #fff;
-  border-radius: 4px;
-  width: 264px;
-  height: 40px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }
 
 .footer-btn {
